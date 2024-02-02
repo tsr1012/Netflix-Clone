@@ -403,9 +403,10 @@ nav img {
 
 .foot-container a {
   color: #ffffffb3;
+  text-decoration: underline;
 }
 
-.foot-container a:focus {
+.foot-container a:active {
   color: #e50914;
 }
 
