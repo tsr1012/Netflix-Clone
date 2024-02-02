@@ -401,12 +401,16 @@ nav img {
   flex-direction: column;
 }
 
-.foot-container a {
+.foot-container .telephone a{
+  color: #ffffffb3;
+}
+
+.foot-container ul a {
   color: #ffffffb3;
   text-decoration: underline;
 }
 
-.foot-container a:active {
+.foot-container ul a:active {
   color: #e50914;
 }
 
